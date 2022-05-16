@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/tristanbeatty/Documents/JavaBootcamp/Lab4.3/.metadata/.plugins/org.eclipse.jdt.core
+3766080359.index
+1816963510.index
+1865797976.index
